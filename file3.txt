@@ -1,1 +1,2 @@
 THis is file3 added in Master branch
+Added line in file3
